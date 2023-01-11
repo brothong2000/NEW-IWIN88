@@ -73,22 +73,31 @@
         display:block;
         /* padding-top: 20px; */
     }
+    .A{
+        width: 20%;
+    }
     .A img {
-        width: 50%;
+        width: 70%;
         padding-top:10px;
+    }
+    .B{
+        width:80%;
     }
     .mm{
         display: none;
+    }
+    .B ul li a{
+        font-size: 15px;
     }
     .B ul li {
         padding-top: 15px;
     }
     p {
-        font-size: 18px;
+        font-size: 15px;
         color: white;
     }
     .strong{
-        font-size: 20px;
+        font-size: 18px;
     }
     .bai{
         font-size: 15px;
